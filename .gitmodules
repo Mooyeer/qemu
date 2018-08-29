@@ -43,3 +43,6 @@
 [submodule "roms/u-boot-sam460ex"]
 	path = roms/u-boot-sam460ex
 	url = git://git.qemu.org/u-boot-sam460ex.git
+[submodule "roms/vgabios"]
+	path = roms/vgabios
+	url = git://git.qemu-project.org/vgabios.git
